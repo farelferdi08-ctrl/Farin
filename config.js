@@ -15,7 +15,7 @@ ownerName: "Farin",
 //==============================================[ SETTING IMAGE ]=======//
 ppthumb: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",       // Foto utama bot (/start)
 deposit:"https://i.ibb.co/0pmY5r1F/file-0000000096f8720ba5b9b227e8b757b2.png",
-berhasil:"https://i.ibb.co/XfGm0ZTV/file-00000000c6d0720bba5f5876392484af.png",
+pesanan:"https://i.ibb.co/XfGm0ZTV/file-00000000c6d0720bba5f5876392484af.png",
 maintance:"https://i.ibb.co/3965kQ0v/file-000000002a78720ba56ba9afdfa12bf9.png",
 maintanceoff:"https://i.ibb.co/FbLMrYzf/file-00000000637071fdb685832182873674.png",
 id_channel_price: "-1003291462039",
