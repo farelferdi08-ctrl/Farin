@@ -6,6 +6,7 @@ TOKEN: "8084526858:AAHGZ2hVK_7mzO-eMBnirdG-WqSEkK-n9Oo", // Token dari @BotFathe
 OWNER_ID: "7355538049", // ID Telegram owner
 urladmin: "https://t.me/farinmodssv2",
 urlchannel: "https://t.me/farinmods",
+urlinfo: "https://t.me/infofarinshop",
 urlchannel2: "https://t.me/farinshopliveprince",
 idchannel: "-1003032034957", // isi id channel untung notifikasi
 botName: "Farin Shop",
@@ -14,6 +15,8 @@ authorName: "@FarinShop_bot",
 ownerName: "Farin",
   
 //==============================================[ SETTING IMAGE ]=======//
+verif: "https://i.ibb.co/Rkg1Drpv/Gemini-Generated-Image-n8trsfn8trsfn8tr.png",
+verifdone: "https://i.ibb.co/JRhxmMT2/Gemini-Generated-Image-93othn93othn93ot.png",
 ppthumb: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",       // Foto utama bot (/start)
 maintance: "https://i.ibb.co/3965kQ0v/file-000000002a78720ba56ba9afdfa12bf9.png",
 maintanceoff: "https://i.ibb.co/FbLMrYzf/file-00000000637071fdb685832182873674.png",
@@ -26,8 +29,8 @@ RUMAHOTP: "otp_ncRxncCVCZpFtwLJ",
 nomor_pencairan_RUMAHOTP: "083163985132", // masi dalam masa percobaan
 type_ewallet_RUMAHOTP: "dana", // masi dalam masa percobaan
 atas_nama_ewallet_RUMAHOTP: "Ahmad Farrel Ferdinand", // masi dalam masa percobaan
-UNTUNG_NOKOS: 700,
-UNTUNG_DEPOSIT: 50,
+UNTUNG_NOKOS: 820,
+UNTUNG_DEPOSIT: 150,
 
 };
 
