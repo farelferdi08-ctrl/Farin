@@ -16,7 +16,7 @@ ownerName: "Farin",
   
 //==============================================[ SETTING IMAGE ]=======//
 verif: "https://files.catbox.moe/1j1ilq.jpg",
-verifdone: "https://i.ibb.co/q35fDNHP/20260212-042940.jpg",
+verifdone: "https://files.catbox.moe/u6b5k1.jpg",
 ppthumb: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",       // Foto utama bot (/start)
 maintance: "https://i.ibb.co/3965kQ0v/file-000000002a78720ba56ba9afdfa12bf9.png",
 maintanceoff: "https://i.ibb.co/FbLMrYzf/file-00000000637071fdb685832182873674.png",
