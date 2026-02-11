@@ -15,8 +15,8 @@ authorName: "@FarinShop_bot",
 ownerName: "Farin",
   
 //==============================================[ SETTING IMAGE ]=======//
-verif: "https://i.ibb.co/Rkg1Drpv/Gemini-Generated-Image-n8trsfn8trsfn8tr.png",
-verifdone: "https://i.ibb.co/JRhxmMT2/Gemini-Generated-Image-93othn93othn93ot.png",
+verif: "https://files.catbox.moe/1j1ilq.jpg",
+verifdone: "https://files.catbox.moe/8worp8.jpg",
 ppthumb: "https://i.ibb.co/pjDfdk9d/file-000000002ae072078ebda61e55840b15.png",       // Foto utama bot (/start)
 maintance: "https://i.ibb.co/3965kQ0v/file-000000002a78720ba56ba9afdfa12bf9.png",
 maintanceoff: "https://i.ibb.co/FbLMrYzf/file-00000000637071fdb685832182873674.png",
